@@ -3,3 +3,7 @@ language: python
 dist: krusty
 
 script: py.test
+
+python:
+  - 2.7
+  - 3.6
